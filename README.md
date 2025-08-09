@@ -6,7 +6,6 @@ It enables users to explore trends in population, literacy, workforce, housing, 
 The dashboard also includes predictive analytics for future population estimates using machine learning models.
 
 <h3><b>📈 Dashboard Overview </b></h3>
-### Overview Page
 <img width="1178" height="657" alt="image" src="https://github.com/user-attachments/assets/a2cbaef6-2e1d-497e-b0ea-ae1828f1cfa1" />
 
 <h3><b>📂 Data Source(s)</b></h3>
