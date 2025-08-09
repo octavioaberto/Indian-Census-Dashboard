@@ -5,6 +5,10 @@ This project is an interactive Power BI dashboard built to visualize Indian Cens
 It enables users to explore trends in population, literacy, workforce, housing, and demographics at the state level.
 The dashboard also includes predictive analytics for future population estimates using machine learning models.
 
+<h3><b>📈 Dashboard Overview </b></h3>
+### Overview Page
+![Overview Dashboard](images/overview.png)
+
 <h3><b>📂 Data Source(s)</b></h3>
 
 The dataset used in this dashboard is compiled from the Official Census of India records for the years 1991, 2001, and 2011.
