@@ -9,21 +9,21 @@ The dashboard also includes predictive analytics for future population estimates
 
 The dataset used in this dashboard is compiled from the Official Census of India records for the years 1991, 2001, and 2011.
 
-Source: Census of India Website
+Source: https://censusindia.gov.in/census.website/
 
 Additional Processing: Data cleaning and formatting in Excel and Python before importing into Power BI.
 
-🛠 Prerequisites
+<h3><b>🛠 Prerequisites</b></h3>
 
 Before opening the project, ensure you have the following:
 
-Power BI Desktop (latest version recommended) → Download Here
+Power BI Desktop (latest version recommended)
 
 A Windows machine (Power BI Desktop is Windows-only)
 
 At least 8 GB RAM for smooth dashboard rendering
 
-📥 Steps to Open the File
+<h3><b>📥 Steps to Open the File</b></h3>
 
 Clone or download this repository to your local system.
 
