@@ -1,4 +1,4 @@
-📊 Indian Census Power BI Dashboard
+📊 #Indian Census Power BI Dashboard
 
 📌 Overview of the Project
 This project is an interactive Power BI dashboard built to visualize Indian Census data across multiple years.
