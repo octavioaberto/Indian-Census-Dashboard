@@ -4,14 +4,10 @@ This project is an interactive Power BI dashboard built to visualize Indian Cens
 It enables users to explore trends in population, literacy, workforce, housing, and demographics at the state level.
 The dashboard also includes predictive analytics for future population estimates using machine learning models.
 
-📈 Dashboard Overview
-### Population and Density Page
-![Population and Density]()
-
 📂 Data Source(s)
 The dataset used in this dashboard is compiled from the Official Census of India records for the years 1991, 2001, and 2011.
 
-Source: https://censusindia.gov.in/census.website/
+Source: Census of India Website
 
 Additional Processing: Data cleaning and formatting in Excel and Python before importing into Power BI.
 
