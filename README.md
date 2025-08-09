@@ -7,7 +7,7 @@ The dashboard also includes predictive analytics for future population estimates
 
 <h3><b>📈 Dashboard Overview </b></h3>
 ### Overview Page
-![Population and Density](Dashboard%20Overview/Screenshot%202025-08-09%20193845.png)
+<img width="1178" height="657" alt="image" src="https://github.com/user-attachments/assets/a2cbaef6-2e1d-497e-b0ea-ae1828f1cfa1" />
 
 <h3><b>📂 Data Source(s)</b></h3>
 
